@@ -1,4 +1,4 @@
-# User management API
-[⬅️ API Design](../README.md)
+# User management
+[⬅️ Go back](../.)
 
-![User management API](assets/user-management.png)
+![User management](assets/user-management.png)
