@@ -1,4 +1,4 @@
 # User management
-[⬅️ Go back](../.)
+[⬅️ Go back](../..)
 
 ![User management](assets/user-management.png)

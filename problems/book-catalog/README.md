@@ -1,4 +1,4 @@
 # Book catalog
-[⬅️ Go back](../.)
+[⬅️ Go back](../..)
 
 ![Book catalog](assets/books-catalog.png)
