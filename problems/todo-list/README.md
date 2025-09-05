@@ -1,4 +1,4 @@
 # Todo list
 [⬅️ Go back](../..)
 
-![Todo list](assets/todo-list.png)
+![Todo list](docs/assets/todo-list.png)

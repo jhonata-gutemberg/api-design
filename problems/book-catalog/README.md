@@ -1,3 +1,3 @@
-# Book catalog
+![Book catalog](docs/assets/illustration.png)
 
-![Book catalog](assets/books-catalog.png)
+![Book catalog](docs/assets/books-catalog.png)
